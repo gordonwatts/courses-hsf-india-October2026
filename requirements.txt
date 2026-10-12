@@ -6,6 +6,6 @@ jupyterlab
 matplotlib
 pandas
 uproot
-scikit-learn
-tensorflow
+# scikit-learn
+# tensorflow
 ipywidgets
